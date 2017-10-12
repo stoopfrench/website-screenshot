@@ -282,5 +282,17 @@ div#calc {
 	margin-left: 0;
 }
 
+#graph {
+
+	margin-bottom: 8px;
+}
+
+#svg {
+
+	height: 138px;
+	width: 725px;
+	border: 1px solid black;
+}
+
 
 
